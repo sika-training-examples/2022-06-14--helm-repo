@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  counter:
+  - apiVersion: v2
+    created: "2022-06-14T10:35:17.202637664Z"
+    description: Example Counter Application
+    digest: c6a53b80d2f8e46c5e192c795b5d33e66aed83d99658d3231af016d31a1ae695
+    name: counter
+    type: application
+    urls:
+    - counter-2022.06.14.tgz
+    version: 2022.06.14
+generated: "2022-06-14T10:35:17.201238385Z"
